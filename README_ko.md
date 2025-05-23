@@ -12,8 +12,8 @@ Nmap 은 강력한 오픈 소스 네트워크 탐색 및 보안 감사 도구입
 
 |   인덱스 | 이름                                                                                                                           | 난이도   | Repo                                                                                  | 연습                                                                                     |
 |----------|--------------------------------------------------------------------------------------------------------------------------------|----------|---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|        1 | [Nmap 퀵 스타트](https://labex.io/ko/courses/quick-start-with-nmap)                                                            | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-nmap)                        |
-|        2 | [Linux 환경에서 Nmap 을 이용한 실전 네트워크 스캐닝](https://labex.io/ko/courses/hands-on-network-scanning-with-nmap-on-linux) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 실습 시작](https://labex.io/ko/courses/hands-on-network-scanning-with-nmap-on-linux) |
+|        1 | [Nmap 퀵 스타트](https://labex.io/ko/courses/quick-start-with-nmap)                                                            | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-nmap)                        |
+|        2 | [Linux 환경에서 Nmap 을 이용한 실전 네트워크 스캐닝](https://labex.io/ko/courses/hands-on-network-scanning-with-nmap-on-linux) | 초급     | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 실습 시작](https://labex.io/ko/courses/hands-on-network-scanning-with-nmap-on-linux) |
 
 ## 더 보기
 
