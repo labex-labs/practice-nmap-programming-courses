@@ -12,8 +12,8 @@ Nmap 是用于网络探索和安全审计的强大开源工具。此技能树为
 
 |   序号 | 名称                                                                                                              | 难度   | Repo                                                                                  | 练习                                                                                    |
 |--------|-------------------------------------------------------------------------------------------------------------------|--------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|      1 | [Nmap 快速入门](https://labex.io/zh/courses/quick-start-with-nmap)                                                | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-nmap)                        |
-|      2 | [在 Linux 上使用 Nmap 进行实战网络扫描](https://labex.io/zh/courses/hands-on-network-scanning-with-nmap-on-linux) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 开始实验](https://labex.io/zh/courses/hands-on-network-scanning-with-nmap-on-linux) |
+|      1 | [Nmap 快速入门](https://labex.io/zh/courses/quick-start-with-nmap)                                                | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-nmap)                        |
+|      2 | [在 Linux 上使用 Nmap 进行实战网络扫描](https://labex.io/zh/courses/hands-on-network-scanning-with-nmap-on-linux) | 初级   | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 开始实验](https://labex.io/zh/courses/hands-on-network-scanning-with-nmap-on-linux) |
 
 ## 更多
 
