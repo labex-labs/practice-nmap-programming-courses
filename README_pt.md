@@ -12,8 +12,8 @@ Nmap é uma ferramenta de código aberto poderosa para exploração de redes e a
 
 |   Índice | Nome                                                                                                                    | Dificuldade   | Repo                                                                                  | Prática                                                                                    |
 |----------|-------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
-|        1 | [Início Rápido com Nmap](https://labex.io/pt/courses/quick-start-with-nmap)                                             | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-nmap)                        |
-|        2 | [Varredura de Rede Prática com Nmap no Linux](https://labex.io/pt/courses/hands-on-network-scanning-with-nmap-on-linux) | ★☆☆           | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Iniciar Lab](https://labex.io/pt/courses/hands-on-network-scanning-with-nmap-on-linux) |
+|        1 | [Início Rápido com Nmap](https://labex.io/pt/courses/quick-start-with-nmap)                                             | Iniciante     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Iniciar Lab](https://labex.io/pt/courses/quick-start-with-nmap)                        |
+|        2 | [Varredura de Rede Prática com Nmap no Linux](https://labex.io/pt/courses/hands-on-network-scanning-with-nmap-on-linux) | Iniciante     | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Iniciar Lab](https://labex.io/pt/courses/hands-on-network-scanning-with-nmap-on-linux) |
 
 ## Mais
 
