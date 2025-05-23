@@ -12,8 +12,8 @@ Nmap es una poderosa herramienta de código abierto para la exploración de rede
 
 |   Índice | Nombre                                                                                                                  | Dificultad   | Repo                                                                                  | Práctica                                                                                           |
 |----------|-------------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-|        1 | [Inicio rápido con Nmap](https://labex.io/es/courses/quick-start-with-nmap)                                             | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-nmap)                        |
-|        2 | [Escaneo de redes práctico con Nmap en Linux](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux) |
+|        1 | [Inicio rápido con Nmap](https://labex.io/es/courses/quick-start-with-nmap)                                             | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-nmap)                        |
+|        2 | [Escaneo de redes práctico con Nmap en Linux](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux) | Principiante | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/hands-on-network-scanning-with-nmap-on-linux) |
 
 ## Más
 
