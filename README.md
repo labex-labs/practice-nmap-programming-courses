@@ -12,8 +12,8 @@ Nmap is a powerful open-source tool for network exploration and security auditin
 
 |   Index | Name                                                                                                                  | Difficulty   | Repo                                                                                  | Practice                                                                              |
 |---------|-----------------------------------------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
-|       1 | [Quick Start with Nmap](https://labex.io/courses/quick-start-with-nmap)                                               | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Start Lab](https://labex.io/courses/quick-start-with-nmap)                        |
-|       2 | [Hands-On Network Scanning with Nmap on Linux](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Start Lab](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux) |
+|       1 | [Quick Start with Nmap](https://labex.io/courses/quick-start-with-nmap)                                               | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-nmap)                        | [🚀 Start Lab](https://labex.io/courses/quick-start-with-nmap)                        |
+|       2 | [Hands-On Network Scanning with Nmap on Linux](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux) | Beginner     | [🔗 Repo](https://github.com/labex-labs/hands-on-network-scanning-with-nmap-on-linux) | [🚀 Start Lab](https://labex.io/courses/hands-on-network-scanning-with-nmap-on-linux) |
 
 ## More
 
